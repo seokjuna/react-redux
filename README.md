@@ -9,5 +9,7 @@ React:<br>
 - UI: Counter, Todos<br>
 - yarn: redux, redux-devtools-extension, redux-actions, immer<br>
 - function: useCallback, useDispatch, useSelector<br>
+<br>
+<img width="400" alt="redux" src="https://user-images.githubusercontent.com/102382351/210501743-71a92358-f3c0-44f2-a781-ea38e6bf6890.png"><br>
 
 
